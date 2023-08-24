@@ -1,0 +1,15 @@
+# Virtual ENV
+dsp/
+
+# Test music files
+*.mp3
+*.wav
+
+# Python Cache
+__pycache__/
+
+# Test file
+test.py
+
+# vim swap files
+*.swp
